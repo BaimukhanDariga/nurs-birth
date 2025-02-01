@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BaimukhanDariga/nurs-birth/static/css/main.8cad31f1.css",
+    "main.js": "/BaimukhanDariga/nurs-birth/static/js/main.85ab22f1.js",
+    "static/js/156.6a35e1a0.chunk.js": "/BaimukhanDariga/nurs-birth/static/js/156.6a35e1a0.chunk.js",
+    "static/media/ziznu.JPG": "/BaimukhanDariga/nurs-birth/static/media/ziznu.87b7c281542814651c1d.JPG",
+    "static/media/IMG_1054.jpg": "/BaimukhanDariga/nurs-birth/static/media/IMG_1054.faf2463dd5be97022d0f.jpg",
+    "static/media/nurs.jpg": "/BaimukhanDariga/nurs-birth/static/media/nurs.2015111a356eab2f7c75.jpg",
+    "static/media/nurs2.jpg": "/BaimukhanDariga/nurs-birth/static/media/nurs2.7f98a5c6c952b065fd19.jpg",
+    "static/media/photo8.jpg": "/BaimukhanDariga/nurs-birth/static/media/photo8.582cee10879531323fb2.jpg",
+    "static/media/photo6.jpg": "/BaimukhanDariga/nurs-birth/static/media/photo6.b2ca748bb007a5f1bc18.jpg",
+    "static/media/photo7.jpg": "/BaimukhanDariga/nurs-birth/static/media/photo7.a42690db4ac9e45c1b44.jpg",
+    "static/media/nursme.jpg": "/BaimukhanDariga/nurs-birth/static/media/nursme.1b61c192480fd53b5adf.jpg",
+    "static/media/slick.svg": "/BaimukhanDariga/nurs-birth/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BaimukhanDariga/nurs-birth/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BaimukhanDariga/nurs-birth/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BaimukhanDariga/nurs-birth/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BaimukhanDariga/nurs-birth/index.html",
+    "main.8cad31f1.css.map": "/BaimukhanDariga/nurs-birth/static/css/main.8cad31f1.css.map",
+    "main.85ab22f1.js.map": "/BaimukhanDariga/nurs-birth/static/js/main.85ab22f1.js.map",
+    "156.6a35e1a0.chunk.js.map": "/BaimukhanDariga/nurs-birth/static/js/156.6a35e1a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cad31f1.css",
+    "static/js/main.85ab22f1.js"
+  ]
+}
